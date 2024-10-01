@@ -2,7 +2,7 @@
 
 ![](https://github.com/francesco-innocenti/pc-saddles/blob/main/origin_saddle_toy_models.png)
 
-This repo has code for NeurIPS 2024 paper [Only Strict Saddles in the Energy Landscape of Predictive Coding Networks?](https://arxiv.org/abs/2408.11979). 
+This repo holds code for the NeurIPS 2024 paper [Only Strict Saddles in the Energy Landscape of Predictive Coding Networks?](https://arxiv.org/abs/2408.11979). 
 You can read [my blog post](https://francesco-innocenti.github.io/posts/2024/10/01/The-Energy-Landscape-of-Predictive-Coding-Networks/) for the key ideas of the paper. 
 
 # Instructions
