@@ -2,7 +2,7 @@
 
 ![](https://github.com/francesco-innocenti/pc-saddles/blob/main/origin_saddle_toy_models.png)
 
-* Code for the NeurIPS 2024 paper [Only Strict Saddles in the Energy Landscape of Predictive Coding Networks?](https://arxiv.org/abs/2408.11979). 
+* Code for the NeurIPS 2024 paper [Only Strict Saddles in the Energy Landscape of Predictive Coding Networks?](https://papers.nips.cc/paper_files/paper/2024/hash/6075fc6540b9a3cb951752099efd86ef-Abstract-Conference.html). 
 * See [this blog post](https://francesco-innocenti.github.io/posts/2024/10/01/The-Energy-Landscape-of-Predictive-Coding-Networks/) for the key ideas of the paper. 
 * Also check out [this library](https://github.com/thebuckleylab/jpc) for training predictive coding networks, which was used for some of the experiments in this paper.
 
